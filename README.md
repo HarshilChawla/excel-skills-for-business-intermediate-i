@@ -1,6 +1,6 @@
-# Excel for Business Skills: Intermediate I
+# Excel Skills for Business: Intermediate I
 
-This repository contains my practice work from the **Excel for Business Skills: Intermediate I** course (part of the Excel for Business Skills Specialization by Macquarie University on Coursera).
+This repository contains my practice work from the **Excel Skills for Business: Intermediate I** course (part of the Excel Skills for Business Specialization by Macquarie University on Coursera).
 
 ---
 
